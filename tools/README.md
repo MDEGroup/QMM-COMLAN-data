@@ -7,7 +7,7 @@ evaluated on a specific artifact, given as input to the evaluation engine.
 * <b>QualityMetamodel.resource.qualitymetamodel.ui</b> defines editor;
 * <b>QualityMetamodel.ui</b> contains eclipse graphical ui contributions;
 In asda see demo video.
-# Play with quality model
+# Playing with quality model
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/k9NhzX7Mx1Q/0.jpg)](https://www.youtube.com/watch?v=k9NhzX7Mx1Q)
 # Run programmatically
 ```Java
