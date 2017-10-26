@@ -5,7 +5,7 @@
 * All supporting tools are stored in <b>tool</b>
 * <b>validation-subjects</b> stores transformation and metamodel corpus that we used in the evaluation process.
 
-# Playing with quality model
+# Playing with quality models
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/k9NhzX7Mx1Q/0.jpg)](https://www.youtube.com/watch?v=k9NhzX7Mx1Q)
 
 # Process Overview
