@@ -8,7 +8,7 @@ evaluated on a specific artifact, given as input to the evaluation engine.
 * <b>QualityMetamodel.ui</b> contains eclipse graphical ui contributions;
 In asda see demo video.
 # Playing with quality model
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/k9NhzX7Mx1Q/0.jpg)](https://www.youtube.com/watch?v=k9NhzX7Mx1Q)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QDXaKHgeVM8/0.jpg)](https://www.youtube.com/watch?v=QDXaKHgeVM8)
 # Run programmatically
 ```Java
 private void metamodelQualityEvaluation(
