@@ -1,8 +1,8 @@
 # Structure of the repository
-* <b>analysis-outcome</b> contains metric reports that are used in evaluation process.
-* quality metamodel and both instances (i.e. metamodels and transformation) are stored in <b>quality-models</b> 
-* <b>questionnaire-response</b> contains the qualitative analysis results. It inludes the responses of evaluators.
-* All supporting tools are stored in <b>tool</b>
+* <b>analysis-outcome</b> contains metric reports that are used in evaluation process;
+* quality metamodel and both instances (i.e. metamodels and transformation) are stored in <b>quality-models</b>;
+* <b>questionnaire-response</b> contains the qualitative analysis results. It inludes the responses of evaluators;
+* All supporting tools are stored in <b>tool</b>;
 * <b>validation-subjects</b> stores transformation and metamodel corpus that we used in the evaluation process.
 
 # Playing with quality models
