@@ -11,7 +11,7 @@
 # Process Overview
 In [1] an automated quality assessment approach for modelling artefacts was proposed. The approach enables the specification of custom quality models consisting of hierarchically organized quality attributes, whose evaluation depends on metrics specifically conceived and applied on the modelling artefacts to be analysed. A domain-specific language is proposed to specify how quality attributes and metrics have to be aggregated. An operative environment is also provided to apply the defined quality models on actual modelling artefacts enabling their automated quality assessment. A validation of the approach has been executed by defining and applying arbitrary quality models (taken from the literature) to a large scale of heterogeneous artefacts, such as metamodels and transformations, retrieved from public repositories. The proposed approach relies on the process summarized in this picture:
 
-![alt tag](https://github.com/MDEGroup/QMM-COMLAN-data/blob/master/comlan_overview.png)
+![alt tag](https://github.com/MDEGroup/QMM-COMLAN-data/blob/master/process.jpg)
 
 
 # Data Analysis
